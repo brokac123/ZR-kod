@@ -1,5 +1,5 @@
 # bakula-laminati-prop
-
+# A project has been made with Vue.js,Firebase and STRIPE API.
 ## Project setup
 ```
 npm install
